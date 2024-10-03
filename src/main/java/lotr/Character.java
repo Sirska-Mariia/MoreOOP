@@ -1,6 +1,5 @@
 package lotr; 
 import lotr.kickstrategy.KickStrategy;
-
 import lombok.Getter;
 import lombok.Setter;
 import lombok.AllArgsConstructor;
